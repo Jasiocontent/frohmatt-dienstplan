@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/dates.ts","./src/labels.ts","./src/main.tsx","./src/pdf.ts","./src/scheduler.ts","./src/seed.ts","./src/storage.ts","./src/types.ts","./src/views/AbwesenheitenView.tsx","./src/views/BesetzungView.tsx","./src/views/LueckenView.tsx","./src/views/MitarbeiterView.tsx","./src/views/PlanView.tsx"],"version":"5.9.3"}
